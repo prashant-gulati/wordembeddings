@@ -10,6 +10,7 @@ https://colab.research.google.com/drive/1J9MgDsVLrBsmNCIkOYmCs1BOqkfolVkR#scroll
 https://jaketae.github.io/study/word2vec/
 
 **Github**
+```
 git init
 git remote add origin https://github.com/prashant-gulati/wordembeddings
 git add .gitignore README.md requirements.txt word_embeddings.py
@@ -18,3 +19,4 @@ Initial commit: word embeddings project. Add word_embeddings.py, README, require
 EOF
 )"
 git push -u origin main 2>&1
+```
