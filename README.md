@@ -89,8 +89,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Colab version**
-https://colab.research.google.com/drive/1J9MgDsVLrBsmNCIkOYmCs1BOqkfolVkR#scrollTo=i6SNxJxFiW9-
+**Live demos:**
+- [Google Colab](https://colab.research.google.com/drive/1J9MgDsVLrBsmNCIkOYmCs1BOqkfolVkR#scrollTo=i6SNxJxFiW9-)
 
 **Inspired by**
 https://jaketae.github.io/study/word2vec/
