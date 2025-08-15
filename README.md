@@ -93,7 +93,7 @@ pip install -r requirements.txt
 - [Google Colab](https://colab.research.google.com/drive/1J9MgDsVLrBsmNCIkOYmCs1BOqkfolVkR#scrollTo=i6SNxJxFiW9-)
 
 **Inspired by**
-https://jaketae.github.io/study/word2vec/
+- https://jaketae.github.io/study/word2vec/
 
 **Github**
 ```
